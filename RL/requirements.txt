@@ -1,0 +1,4 @@
+cleanrl
+torch
+umshini @ git+https://github.com/Umshini/Umshini-Client.git
+numpy
