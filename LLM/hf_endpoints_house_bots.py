@@ -7,14 +7,12 @@ from umshini import connect
 from umshini.envs import LLM_GAMES
 
 ENDPOINT_URLS = {
-    "llama2": "https://h2pmo3qme48fich2.us-east-1.aws.endpoints.huggingface.cloud",  # LLama2-7b-chat-hf (Meta)
-    "mpt": "https://qgxhu1ruenrysuhg.us-east-1.aws.endpoints.huggingface.cloud",  # mpt-7b-8k-chat (MosaicML)
-    "stablebeluga": "https://xxmebcuv2y1rcb7o.us-east-1.aws.endpoints.huggingface.cloud",  # stablebeluga-7b (Stability)
-    "pythia": "https://q65a8e3nqpx1wyhw.us-east-1.aws.endpoints.huggingface.cloud",  # oasst-sft-4-pythia-12b (Eleuther)
-    "vicuna": "https://e952e7srxeuhe20p.us-east-1.aws.endpoints.huggingface.cloud",  # vicuna-7b
-    "falcon": "https://k7oll62us55iraqq.us-east-1.aws.endpoints.huggingface.cloud",  # falcon-instruct-7b
-    "openllama1": "https://uklt09vm53iawn55.us-east-1.aws.endpoints.huggingface.cloud",  # open llama1
-    "TEST": "https://fn1zi3k2i29zg6u0.us-east-1.aws.endpoints.huggingface.cloud",  # llama2-hf (not chat)
+    "llama2": "YOUR_URL_HERE",  # LLama2-7b
+    "mpt": "YOUR_URL_HERE",  # mpt-7b
+    "stablebeluga": "YOUR_URL_HERE",  # stablebeluga-7b
+    "pythia": "YOUR_URL_HERE",  # pythia-7b
+    "vicuna": "YOUR_URL_HERE",  # vicuna-7b
+    "falcon": "YOUR_URL_HERE",  # falcon-instruct-7b
 }
 
 
